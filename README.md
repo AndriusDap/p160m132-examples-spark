@@ -1,6 +1,6 @@
 # pySpark pavyzdžiai
 
-**_Pastaba:_** pasidaryti repozitorijos _Fork_'ą(https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html). Tuomet vietoje _daraliu/p160m132-examples-spark_ repozitorijos pavadinimas taps _studentoBitbucketVartotojoVardas/p160m132-examples-spark_. Tuomet ją reikėtų klonuoti į savo _Ubuntu Linux_ virtualią mašiną, pvz. `/home/vagrant/labs` direktoriją.
+**_Pastaba:_** pasidaryti repozitorijos [_Fork_'ą](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html). Tuomet vietoje _daraliu/p160m132-examples-spark_ repozitorijos pavadinimas taps _studentoBitbucketVartotojoVardas/p160m132-examples-spark_. Tuomet ją reikėtų klonuoti į savo _Ubuntu Linux_ virtualią mašiną, pvz. `/home/vagrant/labs` direktoriją.
 
 ## examples_datafiles.ipynb
 
