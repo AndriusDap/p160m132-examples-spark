@@ -12,4 +12,4 @@
 
 - K-vidurkių modelio apmokymas panaudojant [`pyspark.mllib.clustering.KMeans`](http://spark.apache.org/docs/latest/api/python/pyspark.mllib.html#pyspark.mllib.clustering.KMeans) ir [`pyspark.clustering.KMeansModel`](http://spark.apache.org/docs/latest/api/python/pyspark.mllib.html#pyspark.mllib.clustering.KMeansModel).
 
-- K-vidurkių modelio apmokymas panaudojant [`pyspark.ml.clustering.KMeans`](http://spark.apache.org/docs/latest/api/python/pyspark.ml.html#pyspark.ml.clustering.KMeans) ir naudojant [`pyspark.ml.pipeline.Pipeline`](http://spark.apache.org/docs/latest/api/python/pyspark.ml.html#pyspark.ml.Pipeline) bei kitus `pyspark.ml` komponentus.
+- K-vidurkių modelio apmokymas panaudojant [`pyspark.ml.clustering.KMeans`](http://spark.apache.org/docs/latest/api/python/pyspark.ml.html#pyspark.ml.clustering.KMeans) ir naudojant [`pyspark.ml.pipeline.Pipeline`](http://spark.apache.org/docs/latest/api/python/pyspark.ml.html#pyspark.ml.Pipeline) bei kitus [`pyspark.ml`](http://spark.apache.org/docs/latest/api/python/pyspark.ml.html) komponentus.
